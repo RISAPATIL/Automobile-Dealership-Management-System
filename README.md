@@ -118,9 +118,9 @@ Contributions are welcome! Please feel free to submit issues and enhancement req
 
 ## 👨‍💻 Author
 
-*Akhil*
+*RISAPATIL*
 - GitHub: [@your-RISAPATIL](https://github.com/RISAPATIL)
-- Email: risa2005patil@example.com
+- Email: risa2005patil@email.com
 
 ---
 This project demonstrates advanced SQL concepts and real-world database design for automobile dealership management.
